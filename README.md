@@ -392,13 +392,37 @@ An intelligent travel assistant designed for highway travelers.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaisuryaHemanth2007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaiSuryaHemanth2007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaisuryaHemanth2007&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiSuryaHemanth2007&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
----
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=SaiSuryaHemanth2007&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaiSuryaHemanth2007&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SaiSuryaHemanth2007&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SaiSuryaHemanth2007&theme=tokyonight"/>
+
+</div>
 
 # 🔥 GitHub Streak
 
@@ -556,16 +580,16 @@ while(alive){
 
 ---
 
-# 📌 Pinned Repositories
+# 📌 Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/SaisuryaHemanth2007/AI-Code-Review-Bot">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SaisuryaHemanth2007&repo=AI-Code-Review-Bot&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/SaiSuryaHemanth2007/ai-code-review-bot">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SaiSuryaHemanth2007&repo=ai-code-review-bot&theme=tokyonight&hide_border=true" />
 </a>
 
-<a href="https://github.com/SaisuryaHemanth2007/AI-Career-Mentor">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SaisuryaHemanth2007&repo=AI-Career-Mentor&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/SaiSuryaHemanth2007/ai-career-mentor-backend">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SaiSuryaHemanth2007&repo=ai-career-mentor-backend&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
@@ -574,12 +598,12 @@ while(alive){
 
 <div align="center">
 
-<a href="https://github.com/SaisuryaHemanth2007/aws-serverless-expense-tracker">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SaisuryaHemanth2007&repo=aws-serverless-expense-tracker&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/SaiSuryaHemanth2007/aws-serverless-expense-tracker">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SaiSuryaHemanth2007&repo=aws-serverless-expense-tracker&theme=tokyonight&hide_border=true" />
 </a>
 
-<a href="https://github.com/SaisuryaHemanth2007/aws-serverless-notes">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SaisuryaHemanth2007&repo=aws-serverless-notes&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/SaiSuryaHemanth2007/aws-serverless-notes">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SaiSuryaHemanth2007&repo=aws-serverless-notes&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
@@ -588,13 +612,15 @@ while(alive){
 
 <div align="center">
 
-<a href="https://github.com/SaisuryaHemanth2007/RoadPilot-AI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SaisuryaHemanth2007&repo=RoadPilot-AI&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/SaiSuryaHemanth2007/Library-Management-System">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SaiSuryaHemanth2007&repo=Library-Management-System&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/SaiSuryaHemanth2007/opensre">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SaiSuryaHemanth2007&repo=opensre&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
-
----
 
 # 📈 Coding Profiles
 
