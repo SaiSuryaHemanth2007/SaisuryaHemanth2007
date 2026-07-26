@@ -580,48 +580,6 @@ while(alive){
 
 ---
 
-# 📌 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/SaiSuryaHemanth2007/ai-code-review-bot">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SaiSuryaHemanth2007&repo=ai-code-review-bot&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/SaiSuryaHemanth2007/ai-career-mentor-backend">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SaiSuryaHemanth2007&repo=ai-career-mentor-backend&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/SaiSuryaHemanth2007/aws-serverless-expense-tracker">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SaiSuryaHemanth2007&repo=aws-serverless-expense-tracker&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/SaiSuryaHemanth2007/aws-serverless-notes">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SaiSuryaHemanth2007&repo=aws-serverless-notes&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/SaiSuryaHemanth2007/Library-Management-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SaiSuryaHemanth2007&repo=Library-Management-System&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/SaiSuryaHemanth2007/opensre">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SaiSuryaHemanth2007&repo=opensre&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
 # 📈 Coding Profiles
 
 <div align="center">
