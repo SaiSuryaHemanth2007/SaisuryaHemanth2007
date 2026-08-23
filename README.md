@@ -376,18 +376,6 @@ An intelligent travel assistant designed for highway travelers.
 
 ---
 
-# 🏅 Certifications
-
-- ✅ Microsoft Azure AI
-- ✅ AWS Cloud
-- ✅ Google Cloud Skills Boost
-- ✅ Oracle
-- ✅ Cisco
-- ✅ AI Foundations
-- ✅ Prompt Engineering
-- ✅ Git & GitHub
-
----
 # 📊 GitHub Analytics
 
 <div align="center">
@@ -577,30 +565,6 @@ while(alive){
 </div>
 
 > **Note:** This animation works after adding the GitHub Actions workflow that generates it.
-
----
-
-# 📈 Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-5★-2EC866?style=for-the-badge&logo=hackerrank"/>
-</a>
-
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-brown?style=for-the-badge"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Practice-darkgreen?style=for-the-badge"/>
-</a>
-
-</div>
 
 ---
 
